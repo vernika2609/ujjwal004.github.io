@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #007ACC;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Customize your resume styles here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Your Profession</p>
+    </header>
+    <div class="container">
+        <!-- Your resume content here -->
+        <h2>Education</h2>
+        <p>Your educational background</p>
+
+        <h2>Experience</h2>
+        <p>Your work experience</p>
+
+        <!-- Add more sections as needed -->
+    </div>
+</body>
+</html>
